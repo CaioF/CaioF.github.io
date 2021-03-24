@@ -1,9 +1,9 @@
 {
   "private": true,
   "name": "caiof",
-  "description": "Caio's One-Page Portfolio featuring Parallax effects and animations",
+  "description": "Caio Fleury's One-Page Portfolio Website",
   "version": "0.2.9",
-  "author": "Caio F <caio.fleury.r@gmail.com>",
+  "author": "CaioF <caio.fleury.r@gmail.com>",
   "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
