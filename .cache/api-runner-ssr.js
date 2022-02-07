@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/home/kraft/Work/Projects/websites/CaioF.github.io/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"/home/kraft/Work/Projects/websites/CaioF.github.io"},
+      plugin: require('/home/kraft/Work/projects/websites/CaioF.github.io/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"/home/kraft/Work/projects/websites/CaioF.github.io"},
     },{
-      plugin: require('/home/kraft/Work/Projects/websites/CaioF.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/kraft/Work/projects/websites/CaioF.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/kraft/Work/Projects/websites/CaioF.github.io/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
+      plugin: require('/home/kraft/Work/projects/websites/CaioF.github.io/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/kraft/Work/Projects/websites/CaioF.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/home/kraft/Work/projects/websites/CaioF.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     },{
-      plugin: require('/home/kraft/Work/Projects/websites/CaioF.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/home/kraft/Work/projects/websites/CaioF.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Caio Fleury","short_name":"Caio Fleury","description":"Caio Fleury's One-Page Portfolio Website","start_url":"/","background_color":"#141821","theme_color":"#f6ad55","display":"standalone","icons":[{"src":"/android-icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-icon-144x144.png","sizes":"144x144","type":"image/png"}],"legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":null},
     },{
-      plugin: require('/home/kraft/Work/Projects/websites/CaioF.github.io/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/home/kraft/Work/projects/websites/CaioF.github.io/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
